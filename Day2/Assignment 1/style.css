@@ -1,0 +1,38 @@
+.card{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 20px;
+    border: 2px solid lightgrey;
+    width: 400px;
+}
+.card-img{
+    border-radius: 20px;
+    width: 100%;
+}
+.grey{
+    color: grey;
+}
+h3{
+    font-weight: 400;
+}
+.promote{
+    color: #fffdfd;
+    background-color: #beabab87;
+    position: absolute;
+    top: 5px;
+    /* background-color: rgb(255, 245, 232); */
+    /* color: rgb(84, 48, 0); */
+
+}
+.discount{
+    left: 297px;
+    margin: 10px;
+    color: white;
+    padding: 3px 12px;
+    top: 175px;
+    position: absolute;
+    width: 155px;
+    background-color: #266FEF;
+
+}
